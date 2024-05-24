@@ -16,8 +16,6 @@ class ScavTrap : public ClapTrap
 		ScavTrap(const ScavTrap& obj);
 		ScavTrap&	operator=(const ScavTrap& obj);
 
-
-
 };
 
 
